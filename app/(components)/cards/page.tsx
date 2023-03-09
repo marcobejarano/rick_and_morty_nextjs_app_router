@@ -11,7 +11,7 @@ const Cards = (props) => {
 		    	    key={ character.id } 
 		    	    id={ character.id } 
 		    	    name={ character.name }
-		    	    specied={ character.species } 
+		    	    species={ character.species } 
 		    	    gender={ character.gender }
 		    	    image={ character.image } 
 		    	    onClose={ () => onClose(character.id) }

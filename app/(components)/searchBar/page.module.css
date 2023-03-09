@@ -1,7 +1,5 @@
 .searchBarContainer {
 	padding: 10px;
-	display: flex;
-	justify-content: center;
 }
 
 .searchBar__input {
